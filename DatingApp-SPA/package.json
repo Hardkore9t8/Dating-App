@@ -20,7 +20,10 @@
     "@angular/platform-browser": "^6.0.3",
     "@angular/platform-browser-dynamic": "^6.0.3",
     "@angular/router": "^6.0.3",
+<<<<<<< HEAD
     "@auth0/angular-jwt": "^2.0.0",
+=======
+>>>>>>> 030b3430e8789ddcde2c8bd64b55f31ae1b066ab
     "alertifyjs": "^1.11.3",
     "bootstrap": "^4.3.1",
     "core-js": "^2.5.4",
